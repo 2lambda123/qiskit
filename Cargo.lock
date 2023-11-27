@@ -4,6 +4,17 @@ version = 3
 
 [[package]]
 name = "ahash"
+version = "0.7.7"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5a824f2aa7e75a0c98c5a504fceb80649e9c35265d44525b5f94de4771a395cd"
+dependencies = [
+ "getrandom",
+ "once_cell",
+ "version_check",
+]
+
+[[package]]
+name = "ahash"
 version = "0.8.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "91429305e9f0a25f6205c5b8e0d2db09e0708a7a6df0f42212bb56c32c8ac97a"
@@ -106,14 +117,18 @@ name = "hashbrown"
 version = "0.12.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8a9ee70c43aaf417c914396645a0fa852624801b24ebb7ae78fe8272889ac888"
+dependencies = [
+ "ahash 0.7.7",
+ "rayon",
+]
 
 [[package]]
 name = "hashbrown"
-version = "0.14.2"
+version = "0.14.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f93e7192158dbcda357bdec5fb5788eebf8bbac027f3f33e719d29135ae84156"
+checksum = "290f1a1d9242c78d09ce40a5e87e7554ee637af1351968159f4952f028f75604"
 dependencies = [
- "ahash",
+ "ahash 0.8.6",
  "allocator-api2",
  "rayon",
 ]
@@ -141,7 +156,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8adf3ddd720272c6ea8bf59463c04e0f93d0bbf7c5439b691bca2987e0270897"
 dependencies = [
  "equivalent",
- "hashbrown 0.14.2",
+ "hashbrown 0.14.3",
  "rayon",
 ]
 
@@ -341,7 +356,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "04e8453b658fe480c3e70c8ed4e3d3ec33eb74988bd186561b0cc66b85c3bc4b"
 dependencies = [
  "cfg-if",
- "hashbrown 0.14.2",
+ "hashbrown 0.12.3",
  "indexmap 2.0.2",
  "indoc",
  "libc",
@@ -403,7 +418,7 @@ dependencies = [
 name = "qiskit-qasm2"
 version = "1.0.0"
 dependencies = [
- "hashbrown 0.14.2",
+ "hashbrown 0.14.3",
  "pyo3",
 ]
 
@@ -411,8 +426,8 @@ dependencies = [
 name = "qiskit_accelerate"
 version = "1.0.0"
 dependencies = [
- "ahash",
- "hashbrown 0.14.2",
+ "ahash 0.8.6",
+ "hashbrown 0.14.3",
  "indexmap 2.0.2",
  "ndarray",
  "num-bigint",
@@ -543,9 +558,9 @@ version = "0.13.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "72abf7976bc09a30391248b3c6509338b235c02b0e9b0bf8af686c289cad3f45"
 dependencies = [
- "ahash",
+ "ahash 0.8.6",
  "fixedbitset",
- "hashbrown 0.14.2",
+ "hashbrown 0.12.3",
  "indexmap 2.0.2",
  "num-traits",
  "petgraph",
