@@ -2,7 +2,7 @@ repo_name: 2lambda123/qiskit
 report_id: 12746a00aa6e1fbe6764db369f84e839
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:32:49+00:00'
+timestamp: '2024-01-05T08:14:06+00:00'
 requested_by: 1ucian0
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: Pascal
   description: An imperative and procedural programming language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -45,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -54,6 +58,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -65,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/azure-pipelines.yml
   detection_source: azure-pipelines.yml
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -76,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -85,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/.github/workflows/backport.yml
   detection_source: ".github/workflows/backport.yml"
   last_updated_by: Jake Lishman
   last_updated_on: 2023-09-22 10:57:03.000000000 Z
@@ -96,6 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Paul Nation
   last_updated_on: 2018-06-13 14:21:15.000000000 Z
@@ -121,6 +130,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/.binder/environment.yml
   detection_source: ".binder/environment.yml"
   last_updated_by: Matthew Treinish
   last_updated_on: 2022-03-04 02:32:17.000000000 Z
@@ -132,6 +142,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -143,6 +154,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shells
   image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -155,6 +167,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: NumPy
   description: Fundamental package for scientific computing with Python
@@ -193,6 +206,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/qiskit
   detection_source: Repo Metadata
 - name: Sphinx
   description: Open source full text search server, designed from the ground up with
@@ -203,6 +217,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-tutorials.txt
   detection_source: requirements-tutorials.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -229,6 +244,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19858/default_4d761b2257a1435539d6dc92346974d9f1d55c70.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -242,6 +258,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -268,6 +285,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -280,6 +298,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20282/default_23dd4b159eaa2c5b085470b39bf396fcc6cf2c38.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -306,6 +325,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-tutorials.txt
   detection_source: requirements-tutorials.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -346,6 +366,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19851/default_ac77a75c05474acf9389d56b1f5cc8241af4c384.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Jessie Yu
   last_updated_on: 2020-04-21 12:44:25.000000000 Z
@@ -358,6 +379,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20337/default_1a060bd30ca72545354e1c3d92e9b224f6c0e5e2.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -455,6 +477,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20569/default_c0168195ccd784fb0b83e7f7661959455719049b.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements-optional.txt
   detection_source: requirements-optional.txt
   last_updated_by: Jake Lishman
   last_updated_on: 2023-08-04 18:24:57.000000000 Z
@@ -467,6 +490,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19875/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/2lambda123/qiskit/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: derwind
   last_updated_on: 2023-07-17 23:18:49.000000000 Z
