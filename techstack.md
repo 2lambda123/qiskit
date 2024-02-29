@@ -3,23 +3,23 @@
 ## Tech Stack
 2lambda123/qiskit is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [C++](http://www.cplusplus.com/) – Languages
+- [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- [Python](https://www.python.org) – Languages
 - [Rust](http://www.rust-lang.org/) – Languages
-- [Sphinx](http://sphinxsearch.com/) – Search Engines
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [IPython](http://ipython.org/index.html) – Shells
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Pylint](https://www.pylint.org/) – Code Review
-- [pip](https://pypi.org/project/pip/) – Front End Package Manager
 - [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- [Pylint](https://www.pylint.org/) – Code Review
+- [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Sphinx](http://sphinxsearch.com/) – Search Engines
+- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -29,23 +29,23 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/qiskit is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png' alt='Pascal'/> [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png' alt='Pascal'/> [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
+- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/qiskit](https://github.com/2lambda123/qiskit)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|39<br/>Tools used|01/05/24 <br/>Report generated|
+|39<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
